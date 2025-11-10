@@ -97,6 +97,7 @@ Works with datasets in both English and multilingual column headers.
 CSV is saved with UTF-8 encoding (utf-8-sig) for cross-platform compatibility.
 
 💡 Future Development
+
 🔹 1. Drag-and-Drop File Input
 Future versions will support dragging a data file directly into the window
 to automatically start the conversion and analysis.
