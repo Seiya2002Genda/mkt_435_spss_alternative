@@ -22,20 +22,17 @@ and perform various statistical analyses such as **T-Test**, **ANOVA**, **Chi-Sq
 
 ## 🛠️ Installation
 
-### 1. Clone or download the project
-```bash
-git clone https://github.com/yourusername/universal-csv-analyzer.git
-cd universal-csv-analyzer
-2. Install dependencies
+
+1. Install dependencies
 bash
 Copy code
 pip install pandas scipy statsmodels seaborn matplotlib pyreadstat openpyxl odfpy
 🚀 How to Use
-Step 1 — Run the analyzer
+##Step 1 — Run the analyzer
 bash
 Copy code
 python universal_csv_analyzer_en.py
-Step 2 — Input your data file
+##Step 2 — Input your data file
 When prompted:
 
 kotlin
@@ -50,7 +47,7 @@ Copy code
 → MyDataset.csv
 The script automatically converts and loads the data.
 
-Step 3 — Select your analysis variables
+##Step 3 — Select your analysis variables
 All columns are listed by number.
 You can select multiple variables (space-separated):
 
